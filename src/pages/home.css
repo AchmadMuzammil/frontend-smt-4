@@ -1,0 +1,23 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.content-wrapper {
+    max-width: 1200px;
+    /* Sesuaikan lebar maksimal dengan kebutuhan Anda */
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-container {
+    margin-right: 20px;
+}
+
+.image-container img {
+    width: 500px;
+    height: auto;
+}
